@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/github/katarXu/katarXu.svg)](https://wakatime.com/badge/github/katarXu/katarXu)
 
-
-
 **GitHub Statistics**
 
   - GitHub Stats Card
