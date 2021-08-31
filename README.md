@@ -3,7 +3,7 @@
 
 **Coding Record**
 
-<img src="https://wakatime.com/share/@xjh/43d07bb9-8f20-4736-ba9c-1c874ba53eec.png" alt="image" style="zoom:50%;" />
+<img src="https://wakatime.com"><img src="https://wakatime.com/share/@xjh/339d8740-14d3-40e2-af6e-e67b175835c9.png">
 
 **GitHub Statistics**
 
