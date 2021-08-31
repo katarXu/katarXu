@@ -1,9 +1,9 @@
 ## Jiaheng Xu
-[![wakatime](https://wakatime.com/badge/github/katarXu/katarXu.svg)](https://wakatime.com/badge/github/katarXu/katarXu)
+<img src="https://wakatime.com/badge/github/katarXu/katarXu.svg">
 
 **Coding Record**
 
-<img src="https://wakatime.com"><img src="https://wakatime.com/share/@xjh/339d8740-14d3-40e2-af6e-e67b175835c9.png">
+<img src="https://wakatime.com/share/@xjh/339d8740-14d3-40e2-af6e-e67b175835c9.png" width="600">
 
 **GitHub Statistics**
 
