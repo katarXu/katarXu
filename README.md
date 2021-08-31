@@ -1,5 +1,5 @@
 ## Jiaheng Xu
-
+[![wakatime](https://wakatime.com/badge/github/katarXu/katarXu.svg)](https://wakatime.com/badge/github/katarXu/katarXu)
 
 **Coding Record**
 
